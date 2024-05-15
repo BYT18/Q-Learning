@@ -4,6 +4,12 @@
 
 This project implements a solution to the trolley cart problem using Q-learning with neural networks. The trolley cart problem is a classic reinforcement learning problem where a cart must navigate to a goal while avoiding obstacles. The implementation uses a neural network to approximate the Q-values for state-action pairs, allowing the agent to learn a policy for optimal action selection.
 
+
+
+https://github.com/BYT18/Q-Learning/assets/68192622/2d5b0542-fb92-48dd-ae5e-373c8d1eb5b2
+
+
+
 ## Dependencies
 
 - Python 3.x
